@@ -1,7 +1,28 @@
-numpy==1.26.1
-pandas>=2.1.0,<2.2.0
-matplotlib~=3.8.0
-requests
-google-play-scraper
-tqdm
+# Scraping
+google-play-scraper==1.2.4
 
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# NLP & Text Mining
+nltk==3.8.1
+scikit-learn==1.3.2
+gensim==4.3.2
+textblob==0.17.1
+spacy==3.7.2
+
+# Machine Learning
+scikit-surprise==1.1.3
+lightgbm==4.1.0
+xgboost==2.0.3
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+wordcloud==1.9.3
+
+# Utilities
+tqdm==4.66.1
+requests==2.31.0
